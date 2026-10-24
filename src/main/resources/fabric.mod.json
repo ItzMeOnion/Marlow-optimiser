@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "name": "Marlow's Crystal Optimiser",
   "description": "Optimises the crystal output speed and reduces latency on servers",
+    "icon": "assets/schematic_preview/icon.png",
   "authors": ["Marlow"],
   "license": "MIT",
   "environment": "client",
